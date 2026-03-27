@@ -4,26 +4,26 @@ A modern frontend-based e-commerce web platform that connects flower farmers dir
 
 📌 Features
 
-✅ Farmer & Buyer Registration/Login System
-✅ Product Listing and Management Interface
-✅ Shopping Cart with Persistent Storage
-✅ Real-time Cart Updates
-✅ Responsive UI for All Devices
-✅ Smooth Animations and Transitions
-✅ Clean and Modern User Interface
-✅ Fast Load Time and Optimized Performance
+- ✅ Farmer & Buyer Registration/Login System
+- ✅ Product Listing and Management Interface
+- ✅ Shopping Cart with Persistent Storage
+- ✅ Real-time Cart Updates
+- ✅ Responsive UI for All Devices
+- ✅ Smooth Animations and Transitions
+- ✅ Clean and Modern User Interface
+- ✅ Fast Load Time and Optimized Performance
 
 🛠 Tech Stack
 
-HTML5 – Structure and layout
+- HTML5 – Structure and layout
 
-CSS3 – Styling and layout design
+- CSS3 – Styling and layout design
 
-JavaScript (ES6) – Core logic and dynamic behavior
+- JavaScript (ES6) – Core logic and dynamic behavior
 
-Tailwind CSS – Responsive UI and modern styling
+- Tailwind CSS – Responsive UI and modern styling
 
-Local Storage & Session Storage – Cart persistence and state management
+- Local Storage & Session Storage – Cart persistence and state management
 
 🎯 Project Objective
 
